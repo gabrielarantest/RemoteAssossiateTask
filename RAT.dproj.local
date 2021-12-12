@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020-01-13 15:01:01.000.012,=G:\My Drive\Outros\Delphi\Projects\Unit1.pas</Transaction>
+    <Transaction>2020-01-13 15:01:24.000.580,G:\My Drive\Outros\Delphi\Projects\Project1.dproj=G:\My Drive\Outros\Delphi\Projects\RAT.dproj</Transaction>
+    <Transaction>2020-01-13 15:18:07.000.952,G:\My Drive\Outros\Delphi\Projects\Unit1.dfm=G:\My Drive\Outros\Delphi\Projects\firstForm.dfm</Transaction>
+    <Transaction>2020-01-13 15:18:07.000.952,G:\My Drive\Outros\Delphi\Projects\Unit1.pas=G:\My Drive\Outros\Delphi\Projects\firstForm.pas</Transaction>
+    <Transaction>2020-01-13 15:42:48.000.375,G:\My Drive\Outros\Delphi\Projects\firstForm.pas=G:\My Drive\Outros\Delphi\Projects\RAT\firstForm.pas</Transaction>
+    <Transaction>2020-01-13 15:42:48.000.375,G:\My Drive\Outros\Delphi\Projects\firstForm.dfm=G:\My Drive\Outros\Delphi\Projects\RAT\firstForm.dfm</Transaction>
+    <Transaction>2020-01-13 15:42:53.000.083,G:\My Drive\Outros\Delphi\Projects\RAT.dproj=G:\My Drive\Outros\Delphi\Projects\RAT\RAT.dproj</Transaction>
+    <Transaction>2020-01-14 17:08:12.000.592,=G:\My Drive\Outros\Delphi\Projects\RAT\Unit1.pas</Transaction>
+    <Transaction>2020-01-14 17:08:47.000.019,G:\My Drive\Outros\Delphi\Projects\RAT\Unit1.dfm=G:\My Drive\Outros\Delphi\Projects\RAT\task.dfm</Transaction>
+    <Transaction>2020-01-14 17:08:47.000.019,G:\My Drive\Outros\Delphi\Projects\RAT\Unit1.pas=G:\My Drive\Outros\Delphi\Projects\RAT\task.pas</Transaction>
+    <Transaction>2020-01-20 11:40:47.000.124,=G:\My Drive\Outros\Delphi\Projects\RAT\Unit1.pas</Transaction>
+    <Transaction>2020-01-20 11:40:58.000.274,G:\My Drive\Outros\Delphi\Projects\RAT\Unit1.dfm=G:\My Drive\Outros\Delphi\Projects\RAT\training.dfm</Transaction>
+    <Transaction>2020-01-20 11:40:58.000.274,G:\My Drive\Outros\Delphi\Projects\RAT\Unit1.pas=G:\My Drive\Outros\Delphi\Projects\RAT\training.pas</Transaction>
+    <Transaction>2020-01-21 14:37:35.000.356,=G:\My Drive\Outros\Delphi\Projects\RAT\Unit1.pas</Transaction>
+    <Transaction>2020-01-21 14:50:03.000.516,G:\My Drive\Outros\Delphi\Projects\RAT\Unit1.pas=G:\My Drive\Outros\Delphi\Projects\RAT\aboutUnit.pas</Transaction>
+    <Transaction>2020-01-21 14:50:03.000.516,G:\My Drive\Outros\Delphi\Projects\RAT\Unit1.dfm=G:\My Drive\Outros\Delphi\Projects\RAT\aboutUnit.dfm</Transaction>
+    <Transaction>2020-01-21 14:50:30.000.426,G:\My Drive\Outros\Delphi\Projects\RAT\aboutUnit.pas=G:\My Drive\Outros\Delphi\Projects\RAT\about.pas</Transaction>
+    <Transaction>2020-01-21 14:50:30.000.426,G:\My Drive\Outros\Delphi\Projects\RAT\aboutUnit.dfm=G:\My Drive\Outros\Delphi\Projects\RAT\about.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
