@@ -1,0 +1,154 @@
+object entryForm: TentryForm
+  Left = 0
+  Top = 0
+  BorderStyle = bsSingle
+  Caption = 'firstForm'
+  ClientHeight = 572
+  ClientWidth = 1009
+  Color = clMenu
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Menu = MainMenu
+  OldCreateOrder = False
+  OnClose = FormClose
+  OnCreate = FormCreate
+  DesignSize = (
+    1009
+    572)
+  PixelsPerInch = 120
+  TextHeight = 16
+  object participantNameLabel: TLabel
+    Left = 48
+    Top = 64
+    Width = 201
+    Height = 23
+    Caption = 'Insert participant name'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -20
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+  end
+  object participantNumberLabel: TLabel
+    Left = 48
+    Top = 188
+    Width = 218
+    Height = 23
+    Caption = 'Insert participant number'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -20
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+  end
+  object participantSexLabel: TLabel
+    Left = 48
+    Top = 308
+    Width = 200
+    Height = 23
+    Caption = 'Choose participant sex'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -20
+    Font.Name = 'Arial'
+    Font.Style = []
+    ParentFont = False
+  end
+  object creditLabel: TLabel
+    Left = 48
+    Top = 509
+    Width = 350
+    Height = 20
+    Anchors = [akBottom]
+    Caption = 'Developed by Gabriel Tiraboschi (Alfa Version)'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -17
+    Font.Name = 'Arial'
+    Font.Style = [fsItalic]
+    ParentFont = False
+  end
+  object participantNameField: TEdit
+    Left = 48
+    Top = 108
+    Width = 356
+    Height = 32
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -20
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+  end
+  object participantNumberField: TEdit
+    Left = 48
+    Top = 232
+    Width = 89
+    Height = 32
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -20
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    NumbersOnly = True
+    ParentFont = False
+    ParentShowHint = False
+    ShowHint = False
+    TabOrder = 1
+  end
+  object participantSexComboBox: TComboBox
+    Left = 48
+    Top = 352
+    Width = 209
+    Height = 32
+    AutoComplete = False
+    Style = csDropDownList
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -20
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 2
+  end
+  object startButton: TButton
+    Left = 712
+    Top = 376
+    Width = 241
+    Height = 101
+    Anchors = [akRight, akBottom]
+    Caption = 'Start the test'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -20
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 3
+    OnClick = startButtonClick
+  end
+  object MainMenu: TMainMenu
+    object File1: TMenuItem
+      Caption = 'File'
+      object raining1: TMenuItem
+        Caption = 'Training'
+      end
+      object N1: TMenuItem
+        Caption = '-'
+      end
+      object About1: TMenuItem
+        Caption = 'About'
+      end
+      object Close1: TMenuItem
+        Caption = 'Close'
+        OnClick = Close1Click
+      end
+    end
+  end
+end

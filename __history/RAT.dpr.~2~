@@ -1,0 +1,14 @@
+program RAT;
+
+uses
+  Vcl.Forms,
+  firstForm in 'firstForm.pas' {entryForm};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TentryForm, entryForm);
+  Application.Run;
+end.
