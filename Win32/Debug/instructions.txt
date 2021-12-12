@@ -1,0 +1,19 @@
+3
+4
+6
+5
+Hi, thanks for participating in this experiment. 
+Now you are going to receive some instructions and will be trained before we begin the experimental task itself. 
+If you have any questions during the instructions or the training do not hesitate to ask the experimenter. 
+Press ENTER to initiate the instructions.
+In this task we are going to present you some problems to solve.
+In each problem we are going to present you three words.
+For each triad of words, you must come up with a solution.
+The solution is a word that can be associated with all three words of the triad to form a compound word or a phrase. 
+For example: AGE, MILE, and SAND form the compounds STONEAGE, MILESTONE, and SANDSTONE. Therefore, the solution to this triad is the word STONE.
+Do you have any questions? If not, please press ENTER to continue.
+Note that the solution-word can either be placed before or after each of the three words. For example: STONEage and mileSTONE.
+Before each trial a fixation cross will be displayed where the words will be presented. So pay attention to it.
+You will have 15 seconds to read the words and come up with a solution. Once 15 seconds have elapsed you will be prompted to provide an answer. 
+It is imperative that you PROVIDE THE ANSWER RIGHT AWAY! If you don’t know just press ENTER.
+Any questions? If not, you can press ENTER to initiate the training.
